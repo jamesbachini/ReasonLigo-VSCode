@@ -14,9 +14,7 @@ Syntax Highlighting
 
 * [Blog](https://jamesbachini.com)
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+* [Test Contracts](https://gitlab.com/ligolang/ligo/-/tree/dev/src/test/contracts)
 
 ## Installation
 
