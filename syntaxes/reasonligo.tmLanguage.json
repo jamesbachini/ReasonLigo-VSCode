@@ -101,13 +101,22 @@
       "name": "comment",
       "patterns": [
         { "include": "#comment-block-doc" },
-        {	"include": "#comment-block"	}
+        {	"include": "#comment-block"	},
+        {	"include": "#comment-standard"	}
       ]
     },
     "comment-block": {
       "begin": "/\\*",
       "end": "\\*/",
       "name": "comment.block",
+      "patterns": [
+        { "include": "#comment" }
+      ]
+    },
+		"comment-standard": {
+      "begin": "//",
+      "end": "\n",
+      "name": "comment.standard",
       "patterns": [
         { "include": "#comment" }
       ]
