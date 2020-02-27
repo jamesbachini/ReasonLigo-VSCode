@@ -12,7 +12,6 @@ let sub = ((a,b): (int, int)): int => a - b;
 /* real entrypoint that re-routes the flow based on the action provided */
 
 // comment
-
 let main = ((p,storage): (action, storage)) => {
   let storage =
     switch (p) {
