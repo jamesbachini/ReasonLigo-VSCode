@@ -1,0 +1,25 @@
+{
+    "name": "reasonligo-vscode",
+    "displayName": "ReasonLigo",
+    "description": "A syntax highlighter for ReasonLigo for developing smartcontracts with Tezos",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "reasonligo",
+            "aliases": ["ReasonLigo", "reasonligo"],
+            "extensions": [".rl"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "reasonligo",
+            "scopeName": "source.reasonligo",
+            "path": "./syntaxes/reasonligo.tmLanguage.json"
+        }]
+    }
+}
