@@ -2,6 +2,8 @@
     "name": "reasonligo-vscode",
     "displayName": "ReasonLigo",
     "description": "A syntax highlighter for ReasonLigo for developing smartcontracts with Tezos",
+    "publisher": "JamesBachini",
+	"icon": "reasonligo-vscode.png",
     "version": "1.0.1",
     "engines": {
         "vscode": "^1.42.0"
