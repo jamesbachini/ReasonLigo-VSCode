@@ -14,7 +14,7 @@
         "Reason",
         "ReasonLigo",
         "Reason Ligo",
-        ".rl",
+        ".religo",
         ".rligo"
     ],
     "homepage": "https://jamesbachini.com",
@@ -29,7 +29,7 @@
         "languages": [{
             "id": "reasonligo",
             "aliases": ["ReasonLigo", "reasonligo"],
-            "extensions": [".rl"],
+            "extensions": [".religo","rligo"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
