@@ -4,7 +4,7 @@ I noticed there was a syntax highlighter for PascalLIGO but there wasn't one ava
 
 ## Features
 Syntax Highlighting
-.rl .rligo Extension Recognition
+.religo .rligo Extension Recognition
 
 ## Links
 
