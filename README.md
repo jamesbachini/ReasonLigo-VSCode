@@ -12,9 +12,11 @@ Syntax Highlighting
 
 * [Editor Playground](https://ligolang.org/docs/intro/editor-support/)
 
-* [Blog](https://jamesbachini.com)
+* [My Blog](https://jamesbachini.com)
 
 * [Test Contracts](https://gitlab.com/ligolang/ligo/-/tree/dev/src/test/contracts)
+
+* [Discord Group](https://discordapp.com/channels/575270364888825856/575270364888825860)
 
 ## Installation
 
